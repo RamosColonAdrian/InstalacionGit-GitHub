@@ -1,3 +1,4 @@
 Este docuemnto de prueba ha sido modificado despues de crear el reposirorio.
 Vamos a ver como subir los archivos modificados en el repositorio local
 al repositorio remoto.
+Esta es la nueva actualización para utilizar el comando git pull 
